@@ -23,6 +23,7 @@
     "koa-views": "^3.1.0"
   },
   "devDependencies": {
+    "cross-env": "^7.0.3",
     "nodemon": "^1.8.1"
   }
 }
